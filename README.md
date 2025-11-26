@@ -2,7 +2,7 @@
 
 ## Overview
 
-This portfolio demonstrates how I solve real-world business problems using SQL, with a focus on delivering actionable recommendations that drive business decisions. Using the Brazilian E-Commerce Public Dataset by Olist, I simulated five common scenarios that data analysts face across operations, marketing, and customer service teams.
+This portfolio shows how I solve real-world business problems using SQL, with a focus on delivering actionable recommendations that drive business decisions. Using the Brazilian E-Commerce Public Dataset by Olist, I simulated five common scenarios that data analysts face across operations, marketing, and customer service teams.
 
 **Data**: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data) 
 **Tools**: SQL (SQLite)
@@ -278,7 +278,4 @@ ORDER BY
 
 ## Summary
 
-The scenarios demonstrate practical ways to turn data into value for different teams—whether identifying fast sellers, finding top customers, or measuring campaign impact.
-
-When deciding how much data to pull or how detailed to make my analysis, I try to keep the big picture in mind, not just the specific question that's asked. In this project, I have given examples with some scenarios where I keep it simple, and some scenarios I expanded the question and gave more information.
-
+These five scenarios show different ways I approach business questions with SQL. Sometimes I keep it simple for quick answers, sometimes I dig deeper when I think stakeholders need more context. The goal is always to turn data into decisions that people can actually use.
