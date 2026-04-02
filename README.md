@@ -124,7 +124,7 @@ ORDER BY late_pct DESC;
 
 ### Recommendations
 
-- Review operations in São Paulo to fix whatever is causing more frequent delays.
+- Dig into the root cause in São Paulo. Understanding if it is specific sellers, specific carriers, or certain product types causing the delays. Pinpointing the source will help Customer Service and Operations prioritize fixes rather than reviewing everything at once.
 - Keep tracking late deliveries in all cities to spot new issues early.
 
 ## Scenario 3: Top High-Value Customers
