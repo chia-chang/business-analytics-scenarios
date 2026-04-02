@@ -166,13 +166,15 @@ LIMIT 10;
 
 ### Key Findings
 
-- All ten top spenders in Q1 2018 made just one purchase each, ranging from $2204 to $4175.
-- These big spenders are spread out—no one city or region dominates.
+- All ten top spenders in Q1 2018 made just one purchase each, ranging from $2,204 to $4,175.
+- These big spenders are spread across different cities, regions, and product categories. There is no clear shared profile emerged.
+- The absence of common traits is itself a finding: high-value purchases appear to be scattered outliers rather than a replicable customer segment.
 
 ### Recommendations
 
-- Reach out to these high-spenders with tailored offers and ask for their feedback and try to turn them into repeat buyers.
-- Understand what they bought to find bundles or products that attract high-value shoppers and use that for future promotions and campaigns.
+- Rather than marketing to just these ten individuals, consider expanding the analysis to the top 100 or top 1,000 spenders to find statistically meaningful patterns by  clustering them by category, region, or timing that could actually guide campaign targeting.
+- Once a broader segment is identified, test re-engagement with personalized offers based on purchase category and monitor whether one-time high spenders can be converted to repeat buyers.
+- Share findings with the product team to help them understand what high-value customers bought may reveal bundling or upsell opportunities worth building into the platform.
 
 ## Scenario 4: City Sales Rankings
 
