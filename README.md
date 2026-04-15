@@ -1,4 +1,4 @@
-# Business Analytics Scenarios
+# Ecommerce Business Analytics
 
 ## Overview
 
