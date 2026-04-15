@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project shows how I solve real-world business problems using SQL, with a focus on delivering actionable recommendations that drive business decisions. Using the Brazilian E-Commerce Public Dataset by Olist, I simulated five common scenarios that data analysts face across operations, marketing, and customer service teams.
+This project shows how I solve real-world business problems, with a focus on delivering actionable recommendations that drive business decisions. Using the Brazilian E-Commerce Public Dataset by Olist, I simulated five common scenarios that data analysts face across operations, marketing, and customer service teams.
 
 **Data**: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data)   
 **Tools**: SQL (SQLite)
