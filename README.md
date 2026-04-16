@@ -136,10 +136,11 @@ ORDER BY late_pct DESC;
 
 ### Request from Marketing
 
-Who spent the most money in Q1 2018? What do these top customers have in common?
+Who spent the most money in Q1 2018? 
 
 ### What do they want to know?
 
+- What do these top customers have in common?
 - Who are the top 10 spenders?
 - Where are they from?
 
