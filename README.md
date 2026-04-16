@@ -27,8 +27,7 @@ Which sellers have the fastest average delivery time in the last 3 months?
 
 ### What do they want to know?
 
-- Who are the fastest sellers?
-- What is each seller's average delivery time?
+- What make them the fastest seller?
 
 ### My read on this
 Fast delivery is a supply-side retention driver, customers who get orders quickly are more likely to reorder. But before optimizing for speed, I want to know why fast sellers are fast. If it's geography (they're closer to customers), the fix is logistics. If it's behavior (how they handle fulfillment), it's coachable. The analysis below sets up that distinction by including city and state alongside delivery time.
