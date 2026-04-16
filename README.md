@@ -286,7 +286,7 @@ ORDER BY
 ### Key Findings
 
 - Orders jumped from 86 to 130 during the campaign, and even hit 144 after the campaign ended.
-- Revenue more than doubled—going from $8.6K to $20.9K post-campaign.
+- Revenue go from $8.6K to $20.9K post-campaign (more than doubled).
 - Discounts lowered the average item price, but revenue and order counts still went up.
 
 ### Recommendations
