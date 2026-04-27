@@ -57,6 +57,7 @@ LIMIT 20;
   <img src="https://github.com/chia-chang/sql-business-analytics/raw/main/outputs/1_Seller_Delivery_Performance.png" width="780"/>
 </p>
 
+In production, I'd consider adding an index on `order_purchase_timestamp` and `order_status` to avoid full table scans at scale.
 
 ### Key Findings
 
